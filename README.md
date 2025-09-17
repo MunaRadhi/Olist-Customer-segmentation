@@ -35,10 +35,10 @@ The analysis explores:
 ### 4. Satisfaction-based Segmentation
 Customers are segmented based on their satisfaction levels derived from reviews and feedback:  
 
-- **Satisfied:** Received correct items on time with good product quality.  
-- **Neutral / Moderate:** Experienced minor issues such as slight delays or minor product concerns.  
-- **Dissatisfied:** Faced late deliveries, incorrect items, or quality problems.
- **Satisfaction Drivers**: Review analysis shows key issues:  
+- **Happy:** Received correct items on time with good product quality.  
+- **Neutral :** Experienced minor issues such as slight delays or minor product concerns.  
+- **Unhappy:** Faced late deliveries, incorrect items, or quality problems.
+- **Satisfaction Drivers**: Review analysis shows key issues:  
   - **Late deliveries**  
   - **Incorrect items**  
   - **Product quality concerns**  
