@@ -9,8 +9,6 @@ The analysis explores:
 - **What** they buy  
 - **Where** they are located  
 
-Key segmentation models applied: **RFM (Recency, Frequency, Monetary)** and **behavioral analysis**.  
-
 ---
 
 ## Key Findings & Insights
