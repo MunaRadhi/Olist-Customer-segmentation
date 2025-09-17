@@ -81,6 +81,6 @@ This analysis was conducted using the **public Olist E-commerce Dataset (2017)**
 
 ---
 
-## Tools & Technologies
+## Tools 
 - **Python** 
 - **Excel** 
