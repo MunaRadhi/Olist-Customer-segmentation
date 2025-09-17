@@ -28,7 +28,8 @@ The analysis explores:
 ---
 
 ### 3. Product Category Preferences
-- Home & furniture, particularly the "Bed Bath Table" category, not only generated the highest sales but also retained the most repeat customers, making it a key segment for inventory and loyalty-focused marketing.
+- Home & furniture, particularly the **"Bed Bath Table"** category, not only generated the highest sales but also retained the most repeat customers, making it a key segment for inventory and loyalty-focused marketing.  
+
 ---
 
 ### 4. Behavioral Segmentation
@@ -77,3 +78,9 @@ Improving these areas will **boost satisfaction, encourage repeat purchases, and
 
 ## Data Source
 This analysis was conducted using the **public Olist E-commerce Dataset (2017)**.  
+
+---
+
+## Tools & Technologies
+- **Python** 
+- **Excel** 
