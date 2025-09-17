@@ -28,9 +28,7 @@ The analysis explores:
 ---
 
 ### 3. Product Category Preferences
-- The **“Bed Bath Table”** category is the **most sold product category**, indicating a strong customer interest.  
-- Suggests a potential **focus for inventory planning and marketing campaigns**.  
-
+- Home & furniture, particularly the "Bed Bath Table" category, not only generated the highest sales but also retained the most repeat customers, making it a key segment for inventory and loyalty-focused marketing.
 ---
 
 ### 4. Behavioral Segmentation
