@@ -32,9 +32,13 @@ The analysis explores:
 
 ---
 
-### 4. Behavioral Segmentation
-- **Purchase Behavior**: Segmented customers based on purchase timing (weekday vs. weekend), discount usage, and order frequency.  
-- **Satisfaction Drivers**: Review analysis shows key issues:  
+### 4. Satisfaction-based Segmentation
+Customers are segmented based on their satisfaction levels derived from reviews and feedback:  
+
+- **Satisfied:** Received correct items on time with good product quality.  
+- **Neutral / Moderate:** Experienced minor issues such as slight delays or minor product concerns.  
+- **Dissatisfied:** Faced late deliveries, incorrect items, or quality problems.
+ **Satisfaction Drivers**: Review analysis shows key issues:  
   - **Late deliveries**  
   - **Incorrect items**  
   - **Product quality concerns**  
