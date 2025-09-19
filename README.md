@@ -65,7 +65,3 @@ Mona Mohd
 Rabab Ali
 Ali Jafar
 Hasan Ali
-
----
-
-## Repository Structure
