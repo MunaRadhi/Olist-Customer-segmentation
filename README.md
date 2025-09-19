@@ -1,90 +1,71 @@
-# Olist Customer Segmentation Analysis (2017)
+# Brazilian E-commerce Analysis (Olist Dataset)
 
 ## Project Overview
 This project presents a comprehensive analysis of **Olist's customer base for the year 2017**.  
-The goal was to better understand customer purchasing behavior to inform and improve the company's strategic decisions.  
+The goal is to understand customer purchasing behavior, payment patterns, and retention challenges to inform strategic business decisions.  
 
 The analysis explores:  
-- **When** customers shop  
-- **What** they buy  
-- **Where** they are located  
-
----
-
-## Key Findings & Insights
-
-### 1. Temporal Purchase Patterns
-- **Seasonal Peaks**: Customer activity significantly increases during seasonal events and sales periods.  
-  The most notable peak occurs in **November (Black Friday sales)**.  
-- **Weekend Shopping**: About **25% of customers** shop exclusively on weekends.  
-- **Discount-Driven Buyers**: Around **15% of customers** only purchase when items are on sale.  
-
----
-
-### 2. Geographic Distribution
-- Identified the **regions and states with the highest concentration of orders** → useful for localized marketing and logistics optimization.  
-- **Total customer base in the dataset: 43,713.**  
-
----
-
-### 3. Product Category Preferences
-- Home & furniture, particularly the **"Bed Bath Table"** category, not only generated the highest sales but also retained the most repeat customers, making it a key segment for inventory and loyalty-focused marketing.  
-
----
-
-### 4. Satisfaction-based Segmentation
-Customers are segmented based on their satisfaction levels derived from reviews and feedback:  
-
-- **Happy:** Received correct items on time with good product quality.  
-- **Neutral :** Experienced minor issues such as slight delays or minor product concerns.  
-- **Unhappy:** Faced late deliveries, incorrect items, or quality problems.
-- **Satisfaction Drivers**: Review analysis shows key issues:  
-  - **Late deliveries**  
-  - **Incorrect items**  
-  - **Product quality concerns**  
-
-Addressing these is **crucial for customer satisfaction and loyalty**.  
-
----
-
-### 5. RFM Analysis (Recency, Frequency, Monetary)
-- **Recency**: How recently a customer purchased.  
-- **Frequency**: How often they purchase.  
-- **Monetary Value**: How much they spend.  
-
-**Key Insight**: Most customers made **only a single purchase in 2017**, making it difficult to identify strong loyal segments.  
-Signals of repeat purchase behavior are still **weak**.  
-
----
-
-## Conclusion
-The analysis reveals that Olist's customer base is highly **promotion- and timing-driven**.  
-To build a **loyal customer base**:  
-
-1. **Leverage seasonal campaigns** (e.g., Black Friday) for customer acquisition.  
-2. **Develop targeted strategies** for segments like weekend-only shoppers and discount-driven buyers.  
-3. **Prioritize operational improvements**:  
-   - **Delivery accuracy**  
-   - **Order correctness**  
-   - **Product quality**  
-
-Improving these areas will **boost satisfaction, encourage repeat purchases, and strengthen loyalty**.  
-
----
-
-## Project Team
-- **Ali Jafar**  
-- **Mona Mohd**  
-- **Rabab Ali**  
-- **Hasan Ali**  
+- **When** customers shop (seasonal patterns, weekends)  
+- **What** they buy (product categories and quantities)  
+- **Where** they are located (geographic distribution)  
+- **How** they pay (payment methods and voucher usage)  
+- **Customer satisfaction** and **loyalty**  
+- **Customer Lifetime Value (CLV)** insights  
 
 ---
 
 ## Data Source
-This analysis was conducted using the **public Olist E-commerce Dataset (2017)**.  
+This analysis was conducted using the **public Olist E-commerce Dataset (2017)** from [Olist on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 ---
 
-## Tools 
-- **Python** 
-- **Excel** 
+## Key Insights
+
+### Customer Base & Purchasing Patterns
+- 97% of customers made only **one purchase in 2017** (avg. orders per customer = 1.03).  
+- Sales heavily concentrated in the **Southeast region (67.3%)**, especially São Paulo.  
+- **Seasonal shopping** (Black Friday, Mother’s Day) accounted for 15% of purchases; 23% occurred exclusively on weekends.
+
+### Product Preferences
+- **Home & Furniture** dominated (30%), followed by **Sports & Leisure** (19.7%) and **Electronics & Technology** (14.6%).  
+- 94.5% of customers bought from **only one category**, and 90% placed **single-item orders**.
+
+### Payment Behavior
+- **Credit cards** were used in 77.7% of transactions.  
+- **Boleto (bank slips)** accounted for 21.4%.  
+
+### Customer Satisfaction
+- 56% of customers rated their experience as **“Happy” (5 stars)**.  
+- Delivery issues caused 47% of complaints, the main driver of dissatisfaction.
+
+### Customer Health & Retention (RFM Analysis)
+- **At Risk**: 66.3%  
+- **Churned**: 32.5%  
+- **Loyal**: 1.3%  
+- Satisfaction scores were similar across segments, suggesting **loyalty is influenced by factors beyond satisfaction**.
+
+### Customer Lifetime Value (CLV)
+- Average CLV = **R$ 58.05**; Median = **R$ 37.18**.  
+- Top 10% of customers achieved **R$ 111.73**, highlighting the high value of top segments.
+
+## Recommendations
+- **Improve Customer Retention:** Target "At Risk" customers with personalized promotions.  
+- **Optimize Delivery:** Focus on reducing delays, as delivery issues are the main cause of dissatisfaction.  
+- **Geographic Expansion:** Explore marketing opportunities outside the Southeast region to diversify the customer base.  
+- **Encourage Multi-category Purchases:** Incentivize customers to explore more product categories to increase average order value.
+---
+
+## Tools & Technologies
+- **Python** (Pandas, Matplotlib, Seaborn)  
+- **Tableau** (interactive dashboards)  
+- **Excel** (data exploration and pivot tables)
+- 
+## Contributors
+Mona Mohd
+Rabab Ali
+Ali Jafar
+Hasan Ali
+
+---
+
+## Repository Structure
