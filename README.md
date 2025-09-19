@@ -61,7 +61,7 @@ The analysis explores:
 - **Excel** (data exploration and pivot tables)
 - 
 ## Contributors
-Mona Mohd
-Rabab Ali
-Ali Jafar
-Hasan Ali
+- Mona Mohd
+- Rabab Ali
+- Ali Jafar
+- Hasan Ali
