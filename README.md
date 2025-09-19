@@ -9,13 +9,13 @@ The analysis explores:
 - **What** they buy (product categories and quantities)  
 - **Where** they are located (geographic distribution)  
 - **How** they pay (payment methods and voucher usage)  
-- **Customer satisfaction** and **loyalty**  
-- **Customer Lifetime Value (CLV)** insights  
+- **Customer satisfaction**  
+- **RFM & CLV**
 
 ---
 
 ## Data Source
-This analysis was conducted using the **public Olist E-commerce Dataset (2017)** from [Olist on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+[Olist on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 ---
 
