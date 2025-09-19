@@ -56,9 +56,9 @@ The analysis explores:
 ---
 
 ## Tools & Technologies
-- **Python** (Pandas, Matplotlib, Seaborn)  
-- **Tableau** (interactive dashboards)  
-- **Excel** (data exploration and pivot tables)
+- **Python** 
+- **Tableau** 
+- **Excel** 
   
 ## Contributors
 - Mona Mohd
