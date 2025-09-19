@@ -59,7 +59,7 @@ The analysis explores:
 - **Python** (Pandas, Matplotlib, Seaborn)  
 - **Tableau** (interactive dashboards)  
 - **Excel** (data exploration and pivot tables)
-- 
+  
 ## Contributors
 - Mona Mohd
 - Rabab Ali
