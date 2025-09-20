@@ -61,7 +61,7 @@ The analysis explores:
 - **Excel** 
   
 ## Contributors
+- Ali Jafar
 - Mona Mohd
 - Rabab Ali
-- Ali Jafar
 - Hasan Ali
